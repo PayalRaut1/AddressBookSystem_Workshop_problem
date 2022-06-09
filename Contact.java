@@ -1,6 +1,5 @@
 package com.bridgelaz;
-
-public class Contact {
+public class Contact{
     String firstName;
     String lastName;
     String address;
